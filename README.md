@@ -32,7 +32,7 @@ El enfoque principal fue **exploratorio** y se complementó con la ejecución de
 
 | Herramienta       | Entregable          | Enlace |
 |-------------------|---------------------|--------|
-| [![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-PLAN%20DE%20PRUEBAS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1kMhZhFyWde_K-xrW4uOb1P8A579kB8NO/edit?gid=1818886010#gid=1818886010)| **Test case** | [(https://docs.google.com/spreadsheets/d/1kMhZhFyWde_K-xrW4uOb1P8A579kB8NO/edit?gid=1818886010#gid=1818886010)](#) |
+| [![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-PLAN%20DE%20PRUEBAS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1kMhZhFyWde_K-xrW4uOb1P8A579kB8NO/edit?gid=1818886010#gid=1818886010)| **Test case** | [Plan de pruebas en (Google Sheets)](https://docs.google.com/spreadsheets/d/1kMhZhFyWde_K-xrW4uOb1P8A579kB8NO/edit?gid=1818886010#gid=1818886010) |
 | Google Docs| **Reporte de bugs** |
 
 ---
