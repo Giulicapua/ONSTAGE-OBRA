@@ -32,8 +32,8 @@ El enfoque principal fue **exploratorio** y se complementó con la ejecución de
 
 | Herramienta       | Entregable          | Enlace |
 |-------------------|---------------------|--------|
-| 📝 Google Docs    | **Reporte de bugs** | [Acceder al documento](#) |
-| 📊 Google Sheets  | **Plan de pruebas** | [Acceder a la planilla](#) |
+| [![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-PLAN%20DE%20PRUEBAS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/16nqB7t9lBOe3L_1KGiBUdebvTvcaXQwGYPrVJCzL1ME/edit?usp=sharing) | **Plan de pruebas** | [Acceder a la planilla](#) |
+| Google Docs| **Reporte de bugs** |
 
 ---
 
