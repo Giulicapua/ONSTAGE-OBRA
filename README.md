@@ -33,7 +33,7 @@ El enfoque principal fue **exploratorio** y se complementó con la ejecución de
 | Herramienta       | Entregable          | Enlace |
 |-------------------|---------------------|--------|
 | [![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-PLAN%20DE%20PRUEBAS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1kMhZhFyWde_K-xrW4uOb1P8A579kB8NO/edit?gid=1818886010#gid=1818886010)| **Test case** | [Casos de pruebas en (Google Sheets)](https://docs.google.com/spreadsheets/d/1kMhZhFyWde_K-xrW4uOb1P8A579kB8NO/edit?gid=1818886010#gid=1818886010) |
-| [![Google Docs](https://img.shields.io/badge/GOOGLE%20DOCS-REPORTE%20DE%20BUGS-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://drive.google.com/drive/u/1/folders/1u1YrU5wjCxX4xbTdt4_WG2WIbH15JtgL)| **Reporte de bugs** | [Reportes de bugs en (Google Docs)](https://drive.google.com/drive/u/1/folders/1u1YrU5wjCxX4xbTdt4_WG2WIbH15JtgL)]
+| [![Google Docs](https://img.shields.io/badge/GOOGLE%20DOCS-REPORTE%20DE%20BUGS-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://drive.google.com/drive/u/1/folders/1u1YrU5wjCxX4xbTdt4_WG2WIbH15JtgL)| **Reporte de bugs** | [Reportes de bugs en (Google Docs)](https://drive.google.com/drive/u/1/folders/1u1YrU5wjCxX4xbTdt4_WG2WIbH15JtgL)
 
 ---
 
